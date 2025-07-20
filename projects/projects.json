@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Resume AI",
+    "desc": "An AI-Powered Resume Analyzer and Builder that helps you improve your resume.",
+    "image": "resume",
+    "category": "android",
+    "links": {
+      "view": "https://resumeai-project.streamlit.app/",
+      "code": "https://github.com/Ravishetty07/ResumeAI"
+    }
+  },
+  {
+    "name": "Prescripto-Medicare Pro",
+    "desc": "A Full-Stack Hospital Management System for efficient patient and record handling.",
+    "image": "medicare",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Ravishetty07/Prescripto-Medicare-Pro"
+    }
+  },
+  {
+    "name": "Campus AI",
+    "desc": "CampusAI – AI-Powered Student Portal",
+    "image": "campusai",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Ravishetty07/CampusAI"
+    }
+  },
+   {
+    "name": "Service Sphere",
+    "desc": "A Centralized Community Asset Management Web App",
+    "image": "service",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Ravishetty07/Service-Sphere"
+    }
+  },
+  {
+    "name": " GitHub User Finder",
+    "desc": "search for GitHub users and view their profile details in real-time",
+    "image": "git",
+    "category": "web",
+    "links": {
+      "view": "https://githubuserfinder-project.netlify.app/",
+      "code": "https://github.com/Ravishetty07/GithubUserFinder"
+    }
+  },
+  {
+    "name": " Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio2",
+    "category": "web",
+    "links": {
+      "view": "https://ravishetty-portfolio.netlify.app/",
+      "code": "https://github.com/Ravishetty07/Portfolio-WebDev"
+    }
+  }
+]
